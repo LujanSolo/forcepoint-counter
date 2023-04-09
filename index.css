@@ -28,11 +28,10 @@ h2 {
 
 button {
     border: .1rem dashed orange;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 7px 5px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 150px;
     margin-bottom: 5px;
     border-radius: 5px;
 }
